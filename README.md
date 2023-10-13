@@ -20,4 +20,4 @@
 [Top Reasons Learning Python is a Must in 2023](https://ai.plainenglish.io/top-5-reasons-learning-python-is-must-in-2023-e93fa2d32f3)
 
 ## An inspirational image
-
+![Data Science Life Cycle](chart.jpg)
