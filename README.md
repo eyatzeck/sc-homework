@@ -13,5 +13,9 @@
 * Incorporate hands-on data analysis in the next job I get
   * Understand what job title and elevator pitch appropriately capture what I want to do.
   * Update and improve my job hunting collateral
-  * Take advantage of SavvyCoders's presence in the job market to find a new job
+  * Receive knowledgeable guidance about what organizations and positions to target
+  * Benefit as appropriate from SavvyCoders's extensive network of connections with employers in the Midwest
+ 
+ ## Useful reference articles
+[Top Reasons Learning Python is a Must in 2023](https://ai.plainenglish.io/top-5-reasons-learning-python-is-must-in-2023-e93fa2d32f3)
 
