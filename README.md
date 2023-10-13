@@ -21,3 +21,5 @@
 
 ## An inspirational image
 <img src="chart.png" alt="drawing" width="50%"/>
+
+I love that this image summarizes the whole data science life cycle.  I am working to pick up some data science tools on my own, in addition to what we are learning for the class, so I like seeing the whole picture, not just the data analysis part.
