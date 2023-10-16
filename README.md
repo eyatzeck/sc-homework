@@ -1,6 +1,14 @@
 # Elena Yatzeck
 
 ## Senior Business Intelligence Specialist
+I'm a Business Intelligence Specialist with a knack for turning data into actionable insights. I excel at finding, extracting, analyzing, and visualizing complex datasets to drive model development and informed decision-making. 
+
+By harnessing cutting-edge tools and techniques, I transform raw information into strategic business intelligence, enabling companies to optimize operations, identify growth opportunities, and stay ahead in today's competitive landscape. Let's empower your organization with data-driven success.
+
+In terms of my background, I started coding in graduate school when I was working on my PhD in English Literature, which I got, but once the rubber hit the road, I didn't want to be an English professor, so I went into software engineering full time.  I gradually moved into management (line management, product management, project management, program management -- all the Ps), but I am taking advantage of from severance from my last job to update my software engineering skills, learn some more tools, and go back into the workforce with a lot more of a hands-on approach.
+
+I'm excited to be working with SavvyCoders on this goal -- you guys are very enabling.
+
 [LinkedIn Profile](https://www.linkedin.com/in/eyatzeck/)
 
 ## Goals for data analytics course
