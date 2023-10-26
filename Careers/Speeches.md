@@ -22,10 +22,7 @@ Your elevator pitch for mock interviews should be (approximately):
 Hi, I'm Elena, I'm a seasoned business intelligence specialist, with deep experience in sql and Tableau.
 I am currently enrolled with Savvy to enhance my skills around python, the git/github ecosystem, 
 and the end to end data analysis/data science pipeline.
-I chose a capstone about airline pricing because it's fun to think about traveling, and 
-the data set calls for some interesting web scraping, PDF parsing, data wrangling, and visualization.
-I was originally hoping to find out whether prices are lower on Tuesdays, but I can't find data at that
-level of granularity.
+I chose a capstone about AirBnb rental volumes and rates in Chicago because I've used AirBnb, and NYC's changes in policy are in the news, and I was curious what the investment climate for AirBNB has been in Chicago, and what the impact has been on the Chicago long term rental market.
 
 <br>
 
