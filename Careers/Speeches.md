@@ -13,7 +13,7 @@ The moment dictates what type of speech ew can deliver. Sometimes it's a quick E
 - What is your "Unique Selling Proposition" or what makes you difference from the competition?
 - Close with a strong "Call to Action"!
 
-Hi, I'm Elena.  I'm a seasoned business intelligence specialist with a knack for turning data into actionable insights. I excel at finding, extracting, wrangling, analyzing, and visualizing complex datasets to drive model development and informed decision-making--these might be applied to building KPIs and OKRs, for example, or for prioritizing a technology product backlog. I'm interested that your organization is "doing something--fill in as appropriate", and I would love more to be part of that.
+Hi, I'm Elena.  I'm a seasoned business intelligence specialist with a knack for turning data into actionable insights. I excel at finding, extracting, wrangling, analyzing, and visualizing complex datasets to drive model development and informed decision-making--these might be applied to building KPIs and OKRs, for example, or for prioritizing a technology product backlog. I'm interested that your organization is "doing something--fill in as appropriate", and I would love to be part of that because xyz."  Can you tell me how this role fits into that mission.
 
 <br>
 
