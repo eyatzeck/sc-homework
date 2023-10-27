@@ -13,13 +13,13 @@ The moment dictates what type of speech ew can deliver. Sometimes it's a quick E
 - What is your "Unique Selling Proposition" or what makes you difference from the competition?
 - Close with a strong "Call to Action"!
 
-Hi, I'm Elena.  I'm a seasoned business intelligence specialist with a knack for turning data into actionable insights. I excel at finding, extracting, wrangling, analyzing, and visualizing complex datasets to drive model development and informed decision-making--these might be applied to building KPIs and OKRs, for example, or for prioritizing a technology product backlog. I'm interested that your organization is "doing something--fill in as appropriate", and I would love to be part of that because xyz."  Can you tell me how this role fits into that mission.
+Hi, I'm Elena.  I’m a seasoned product visionary who puts teeth into optimizing performance of enterprise teams delivering strategic technical capabilities. I can bring data-driven decision making to stakeholders from C suite to quirky brilliant individual contributors, and I can move from broad strategic vision to highly tactical execution at a moment's notice.  I’m looking for an organization which values honest, prompt, pragmatic, data-driven decision making.  I'm interested that your organization is "doing something--fill in as appropriate", and I would love to be part of that because xyz."  Can you tell me how this role fits into that mission?
 
 <br>
 
 Your elevator pitch for mock interviews should be (approximately):
 
-Hi, I'm Elena, I'm a seasoned business intelligence specialist, with deep experience in sql and Tableau.
+Hi, I'm Elena, I'm a seasoned product visionary, with deep experience in sql and Tableau.
 I am currently enrolled with Savvy to enhance my skills around python, the git/github ecosystem, 
 and the end to end data analysis/data science pipeline.
 I chose a capstone about AirBnb rental volumes and rates in Chicago because I've used AirBnb, and NYC's changes in policy are in the news, and I was curious what the investment climate for AirBNB has been in Chicago, and what the impact has been on the Chicago long term rental market.
