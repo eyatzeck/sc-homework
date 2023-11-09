@@ -13,16 +13,18 @@ The moment dictates what type of speech ew can deliver. Sometimes it's a quick E
 - What is your "Unique Selling Proposition" or what makes you difference from the competition?
 - Close with a strong "Call to Action"!
 
-Hi, I'm Elena.  I’m a seasoned product visionary who puts teeth into optimizing performance of enterprise teams delivering strategic technical capabilities. I can bring data-driven decision making to stakeholders from C suite to quirky brilliant individual contributors, and I can move from broad strategic vision to highly tactical execution at a moment's notice.  I’m looking for an organization which values honest, prompt, pragmatic, data-driven decision making.  I'm interested that your organization is "doing something--fill in as appropriate", and I would love to be part of that because xyz."  Can you tell me how this role fits into that mission?
+Hi, I'm Elena.  I’m a seasoned tech product manager who utilizes data-driven decision making to optimize performance of enterprise teams delivering anything from health care services to financial trading applications. I can bring alignment to stakeholders from C suite to quirky brilliant individual contributors, and I can move from broad strategic vision to highly tactical execution at a moment's notice.  I’m looking for an organization which values honest, prompt, pragmatic, data-driven decision making.  I'm interested that your organization is "doing something--fill in as appropriate", and I would love to be part of that because xyz."  Can you tell me how this role fits into that mission?
 
 <br>
 
 Your elevator pitch for mock interviews should be (approximately):
 
-Hi, I'm Elena, I'm a seasoned product visionary, with deep experience in sql and Tableau.
+Hi, I'm Elena, I'm a seasoned tech product manager, with deep experience in sql and Tableau, and
 I am currently enrolled with Savvy to enhance my skills around python, the git/github ecosystem, 
 and the end to end data analysis/data science pipeline.
-I chose a capstone about AirBnb rental volumes and rates in Chicago because I've used AirBnb, and NYC's changes in policy are in the news, and I was curious what the investment climate for AirBNB has been in Chicago, and what the impact has been on the Chicago long term rental market.
+I chose a capstone about investment strategies in the electric vehicle space because we are doing a related class project
+about electric vehicle charging stations, and because my last job was at a proprietary trading firm.  This is a great opportunity
+to use data to explain some of what goes into investment decisions.
 
 <br>
 
@@ -34,3 +36,14 @@ The introduction speech is meant for Demo Day. It builds on the Elevator Pitch. 
 - What business problem is the SPA solving
 - High Level Summary of the SPA functionality
 - How is this SPA going to solve the stated problem
+
+Hi, I'm Elena, I'm a seasoned tech product manager, with deep experience in sql and Tableau, and
+I am currently enrolled with Savvy to enhance my skills around python, the git/github ecosystem, 
+and the end to end data analysis/data science pipeline.
+
+I chose a capstone about investment strategies in the electric vehicle space because we are doing a related class project
+about electric vehicle charging stations, and because my last job was at a proprietary trading firm.  This is a great opportunity
+to use data to explain some of what goes into investment decisions, to give anyone who is curious about dipping their
+toes in this water a little more information before they try it.
+
+At a high level, I look at performance of about eight competitors to Tesla over the past year and evaluate the performance using different lenses which I can also explain using the data--return on investiment, risk-adjusted return on investment using the "Sharpe ratio," and so on.  (Still researching the lenses)
