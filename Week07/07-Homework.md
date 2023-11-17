@@ -97,13 +97,12 @@ order by numStation DESC
 
 ```
 4. In your own words, Briefly explain Primary Keys and Foreign Keys. 
-```SQL
+
 A primary key is the column (or set of columns) which uniquely defines a row
 in a table.  For example, table 'person' could have columns person_id, first_name, last_name, age, eye_color, etc.  In this table, the primary key would be person_id
 
 A foreign key is a column in a table which refers to the primary key of another table.  For example, table 'address' could have columns address_id, person_id, street, city, zip.  In this table, person_id would be a foreign key.
 
-```
 5. Using EV Charging, For the folks who charged longer than one hour, show the min and max of the charging time for each user. Your output columns should be `userid`, `minTime`, and `maxTime`. Order this result set by the last two columns respectively. HINT: USE `HAVING`
 ```SQL
 select userId, 
