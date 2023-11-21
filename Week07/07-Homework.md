@@ -47,7 +47,7 @@ select Make, Model, ElectricVehicleType from evRegistry where VIN like '%3E1EA1J
 3. Select the `ModelYear`, `make`, `model`, `ElectricVehicleType`, and `range` of the Tesla vehicles or cheverolet vehicles in the registry. Order the result set by Make and Model year in from newest to oldest. 
 ```SQL
 
-select ModelYear, Make, Model, ElectricVehicleType, ElectricRange from evRegistry where make in ('TESLA','CHEVROLET') order by Make, Model
+select ModelYear, Make, Model, ElectricVehicleType, ElectricRange from evRegistry where make in ('TESLA','CHEVROLET') order by Make, ModelYear
 
 ```
 4. Using EVCharging, Write a query to find out how many many times those stations were used. Order them by the most used to the least used and limit the output to 5 records. 
@@ -59,7 +59,7 @@ select stationId, count(sessionId) as session_count from evCharge group by stati
 ```SQL
 select distinct userId, min(ChargeTimeHrs) as minTime, max(ChargeTimeHrs) as maxTime
 from evCharge 
-where userId in (select userId from EVCharging where chargeTimeHrs > .5)
+where userId in (select userId from EVCharge where chargeTimeHrs > .5)
 group by userId order by minTime, maxTime
 
 ```
